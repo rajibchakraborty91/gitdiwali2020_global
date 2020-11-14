@@ -13,8 +13,10 @@ public class StringTesting {
 		// TODO Auto-generated method stub
 		int x,a,b;
 		
+		
+		
 	
-	System.out.println("testing ---- git and push");
+	System.out.println("testing ---- git and push and commit");
 
 }
 }
