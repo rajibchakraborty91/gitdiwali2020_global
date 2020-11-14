@@ -16,7 +16,7 @@ public class StringTesting {
 		
 		
 	
-	System.out.println("testing ---- git and push and commit");
+	System.out.println("testing ---- git and push and commit terminal");
 
 }
 }
